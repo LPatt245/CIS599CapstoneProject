@@ -19,7 +19,11 @@ funded this innovative start-up.
 Project Deliverables
 
 1.Project Plan Inception
+
 2.Business Requirements
+
 3.Infrastructure Design
+
 4. System Implementation
+
 5. Comprehensive Plan and Executive Presentation
