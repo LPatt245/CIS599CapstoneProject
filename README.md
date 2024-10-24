@@ -24,6 +24,6 @@ Project Deliverables
 
 3.Infrastructure Design
 
-4. System Implementation
+4.System Implementation
 
-5. Comprehensive Plan and Executive Presentation
+5.Comprehensive Plan and Executive Presentation
